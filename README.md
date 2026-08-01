@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
