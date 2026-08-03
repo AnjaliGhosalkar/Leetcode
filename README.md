@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1406-stone-game-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -89,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
