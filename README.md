@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
