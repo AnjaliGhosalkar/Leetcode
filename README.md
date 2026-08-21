@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
