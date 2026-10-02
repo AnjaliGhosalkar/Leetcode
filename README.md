@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1927-sum-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1140-stone-game-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -262,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
