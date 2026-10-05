@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1927-sum-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -273,10 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
