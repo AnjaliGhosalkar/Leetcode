@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -245,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnjaliGhosalkar/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
